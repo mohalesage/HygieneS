@@ -1,0 +1,6 @@
+SITE1 - version complete bleu saphir (niveau 1)  -  cree le 21/09/2026
+
+Contenu : 12 pages + page 404, catalogue de 144 produits (js/catalogue.js), video d'accueil, logos, polices auto-hebergees.
+Interdit aux moteurs de recherche pour l'instant (noindex, robots.txt, _headers) : a retirer au moment de la mise en ligne.
+Mise en ligne : glisser ce dossier (ou son zip) sur https://app.netlify.com/drop  (404.html, robots.txt et _headers y sont pris en compte).
+Limites connues : fiches produit composees dans le navigateur (niveau 2 : pages statiques), devis par messagerie (a remplacer par un vrai formulaire), image de partage (og:image) a ajouter avec l'adresse definitive.
